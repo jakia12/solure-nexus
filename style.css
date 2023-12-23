@@ -577,4 +577,24 @@ body {
     align-items: center;
     padding: 30px 40px;
   }
+  .tiers {
+    margin-bottom: 0px;
+    padding-top: 201px;
+    padding-bottom: 201px;
+  }
+  .info-box-info-section {
+    width: 99%;
+    row-gap: 20px;
+    flex-direction: column;
+    padding-right: 12px;
+    display: flex;
+  }
+  .info-box-graphic-section {
+    width: 99%;
+    height: 100%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+  }
 }
